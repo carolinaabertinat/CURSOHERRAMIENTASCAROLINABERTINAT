@@ -28,7 +28,7 @@ Se desarrolló un dashboard interactivo en Power BI que permite visualizar los p
 ##  ENLACES  
 - Dataset: [(https://drive.google.com/file/d/1oXscwO5VeJXVzIBV39WPP5w4W4oCwyay/view?usp=drive_link)]  
 - Notebook: [https://colab.research.google.com/drive/1WdrWnauqlutEWLTWZ7xHkQa4ycQuRLs4#scrollTo=Nso-VY9vgYoV]   
-- Dashboard: [data/raw/dashboard/dashboard.pbix]  
+- Dashboard: [(https://drive.google.com/file/d/1uNEh7Y19Y6kRxivpeCjiI5p_8ws_5F9K/view?usp=drive_link)]  
 
 ##  FUENTES  
 - https://pandas.pydata.org/  
