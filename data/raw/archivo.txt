@@ -1,4 +1,1 @@
-data/raw/archivo.txt
-notebooks/analisis.ipynb
-dashboard/dashboard.pbix
-dashboard/captura.png
+
