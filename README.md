@@ -31,9 +31,9 @@ Además, se observaron diferencias salariales según el rol y el país, así com
 Se desarrolló un dashboard interactivo en Power BI que permite visualizar los principales indicadores del mercado laboral, incluyendo KPIs, distribución de salarios y filtros dinámicos.
 
 ## 🔗 Enlaces  
-- Dataset: [https://github.com/carolinaabertinat/CURSOHERRAMIENTASCAROLINABERTINAT/blob/main/data/raw/ai_job_market.csv]  
-- Dashboard: [https://github.com/carolinaabertinat/CURSOHERRAMIENTASCAROLINABERTINAT/blob/main/dashboard/dashboard.pbix]
-- Notebook: [https://github.com/carolinaabertinat/CURSOHERRAMIENTASCAROLINABERTINAT/blob/main/notebooks/analisis.ipynb]
+- Dataset: https://github.com/carolinaabertinat/CURSOHERRAMIENTASCAROLINABERTINAT/blob/main/data/raw/ai_job_market.csv  
+- Dashboard: https://github.com/carolinaabertinat/CURSOHERRAMIENTASCAROLINABERTINAT/blob/main/dashboard/dashboard.pbix
+- Notebook: https://github.com/carolinaabertinat/CURSOHERRAMIENTASCAROLINABERTINAT/blob/main/notebooks/analisis.ipynb
 
 
 ## 📚 Fuentes  
