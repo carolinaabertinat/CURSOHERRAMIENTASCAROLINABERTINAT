@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Autor  
 Carolina S. Bertinat
-Curso: CURSO DE HERRAMIENTAS BASICAS PARA EL ANALISIS DE DATOS
-Cohorte: 2026  
+- CURSO DE HERRAMIENTAS BASICAS PARA EL ANALISIS DE DATOS
+- 2026  
 
 ## 🎯 Objetivo  
 Analizar el mercado laboral en inteligencia artificial para identificar patrones en salarios, nivel de experiencia, ubicación geográfica y características de los empleos.
